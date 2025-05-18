@@ -16,7 +16,7 @@ To write a Python program using Pandas to **join two DataFrames along rows** (ro
 5. **Display Result**: Print the new combined DataFrame.
 
 ---
-a
+
 ## 💻 Program
 ```
 import pandas as pd 
